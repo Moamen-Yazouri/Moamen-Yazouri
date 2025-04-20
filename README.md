@@ -24,7 +24,7 @@ I'm a passionate **Frontend Developer** who recently graduated from a 90-hour **
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [![LinkedIn](https://www.linkedin.com/in/moamen-al-yazouri-80742433a/)
+- **LinkedIn:** [linkedin.com/in/moamen-al-yazouri](https://www.linkedin.com/in/moamen-al-yazouri-80742433a/)
 - **Portfolio:** Coming Soon!
 
 ---
